@@ -1,11 +1,15 @@
-name: plasmabio-template-bash
+name: M2MEG-RNAseq-TP3-bash
+
 channels:
   - conda-forge
+  - bioconda
+
 dependencies:
   - jupyterlab=2
   - nbresuse
   - python>=3.7
   - pip
   - nodejs
+  - bowtie
   - pip:
     - bash_kernel
