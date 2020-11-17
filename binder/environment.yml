@@ -11,7 +11,9 @@ dependencies:
   - pip
   - nodejs
   - fastqc
+  - fastp
   - bowtie
   - samtools
+  - multiqc
   - pip:
     - bash_kernel
