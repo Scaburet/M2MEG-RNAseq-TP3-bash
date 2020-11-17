@@ -11,5 +11,6 @@ dependencies:
   - pip
   - nodejs
   - bowtie
+  - samtools
   - pip:
     - bash_kernel
