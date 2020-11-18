@@ -15,5 +15,6 @@ dependencies:
   - bowtie
   - samtools
   - multiqc
+  - qualimap
   - pip:
     - bash_kernel
