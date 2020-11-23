@@ -19,3 +19,4 @@ dependencies:
   -  bedtools
   - pip:
     - bash_kernel
+    - HTSeq
