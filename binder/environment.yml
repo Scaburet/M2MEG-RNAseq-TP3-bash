@@ -16,7 +16,7 @@ dependencies:
   - samtools
   - multiqc
   - qualimap
-  -  bedtools
+  - bedtools
+  - htseq
   - pip:
     - bash_kernel
-    - HTSeq
